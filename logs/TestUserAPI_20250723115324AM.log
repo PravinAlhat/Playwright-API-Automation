@@ -1,0 +1,4 @@
+07/23/202511:53:26 AM-TestUserAPI-INFO:User is successfully created with Name 'Jim' and Job 'Wade'
+07/23/202511:53:26 AM-TestUserAPI-INFO:User with ID 2 is successfully deleted
+07/23/202511:53:27 AM-TestUserAPI-INFO:Users are listed successfully
+07/23/202511:53:27 AM-TestUserAPI-ERROR:User with ID 87698689686 is not listed and test is failed

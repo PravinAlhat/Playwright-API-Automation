@@ -1,0 +1,4 @@
+07/23/202511:52:45 AM-TestUserAPI-INFO:User is successfully created with Name 'Jim' and Job 'Wade'
+07/23/202511:52:45 AM-TestUserAPI-INFO:User with ID 2 is successfully deleted
+07/23/202511:52:45 AM-TestUserAPI-INFO:Users are listed successfully
+07/23/202511:52:46 AM-TestUserAPI-INFO:Single user with ID  is successfully fetched and listed
